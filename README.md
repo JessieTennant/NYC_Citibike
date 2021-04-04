@@ -29,4 +29,4 @@
 - This industry is going to be very male-oriented as males are clearly the target customers.
 - Most people use the service during commute times on the weekdays, so there should be more bikes provided for those times. 
 - An additional graph I would make would be a visualisation of where the bikes are being checked out. Making a map of the city and making pin points would help with the visualisation. This will help the business see which areas are most in need of bikes.
-- Another addition graph I would make is a comparison of users of different age groups. While we have the data on genders, figuring out which age groups use the service the most frequently will help the business further speicify their target customers.
+- Another addition graph I would make is a comparison of users of different age groups. While we have the data on genders, figuring out which age groups use the service the most frequently will help the business further specify their target customers.
